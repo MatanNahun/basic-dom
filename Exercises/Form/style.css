@@ -1,0 +1,13 @@
+#container {
+  background-color: #27ae60;
+  border: solid black;
+  margin: 10%;
+}
+
+div > input {
+  width: 100px;
+}
+
+div {
+  text-align: center;
+}
